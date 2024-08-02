@@ -32,7 +32,7 @@ const App = () => {
     <AppProvider>
     <Router>
       <div className="d-flex justify-content-center align-items-center vh-100">
-        <div className="mt-5 w-75">
+        <div className="mt-5 w-70">
           <Routes>
             <Route 
               path="/" 
